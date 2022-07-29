@@ -39,5 +39,11 @@ Using Python, there are six steps to achieve this:
   - A python (HD-Bonus.py) file with instructions on creating a DAG.
   
 
-
+References:
+1. https://www.docker.com/blog/how-to-dockerize-your-python-applications/
+2. https://towardsdatascience.com/job-scheduling-with-apache-airflow-2-0-in-10-minutes-16d19f548a46
+3. https://towardsdatascience.com/a-very-precise-fast-way-to-pull-google-trends-data-automatically-4c3c431960aa
+4. https://stackoverflow.com/questions/57992333/airflow-generate-dag-from-custom-object
+5. https://stackoverflow.com/questions/34398632/docker-how-to-run-pip-requirements-txt-only-if-there-was-a-change
+6. https://cloud.google.com/appengine/docs/legacy/standard/python/googlecloudstorageclient/read-write-to-cloud-storage
 
