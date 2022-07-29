@@ -39,6 +39,14 @@ Using Python, there are six steps to achieve this:
   - A python (HD-Bonus.py) file with instructions on creating a DAG.
   
 
+
+
+
+
+
+
+
+
 References:
 1. https://www.docker.com/blog/how-to-dockerize-your-python-applications/
 2. https://towardsdatascience.com/job-scheduling-with-apache-airflow-2-0-in-10-minutes-16d19f548a46
